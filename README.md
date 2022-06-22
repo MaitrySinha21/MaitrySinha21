@@ -43,6 +43,6 @@ I'm Maitry Sinha, a Passionate and aspiring Data Scientist. My area of expertise
 
 ## Connect with me 🤝
 <a href="https://www.linkedin.com/in/maitry-sinha-2387551b8/"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIN | Maitry" width="22px"/></a>
-![](https://visitor-badge.glitch.me/badge?page_id=MaitrySinha21.MaitrySinha1)
+![](https://visitor-badge.glitch.me/badge?page_id=MaitrySinha21.MaitrySinha21)
 
 
