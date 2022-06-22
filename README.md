@@ -1,6 +1,7 @@
 ###        <img src="https://media.giphy.com/media/EacR87xBJE8wiF94pe/giphy.gif" width="420px" height="350px">
 
-I'm Maitry Sinha, a Passionate and Data Scientist. My area of expertise are Deep Learning, Computer vision & Machine Learning. I am currently focusing on more  deeper parts of Computer vision section and trying to understand them better and also trying to enhance my knowledge in NLP field.
+Hi,
+    I'm Maitry Sinha, a Passionate and Data Scientist. My area of expertise are Deep Learning, Computer vision & Machine Learning. I am currently focusing on more       deeper parts of Computer vision section and trying to understand them better and also trying to enhance my knowledge in NLP field.
 
 
 ---
