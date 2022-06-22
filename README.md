@@ -18,5 +18,5 @@ I'm Maitry Sinha, a Passionate and Aspiring Data Scientist. My area of expertise
 
 <p float="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaitrySinha21&show_icons=true&theme=gotham" alt="MaitrySinha21" width="300" />
- <img src="https://github-readme-stats.vercel.app/api?username=MaitrySinha211&show_icons=true&theme=gotham" alt="MaitrySinha21" width="300" />
+ <img src="https://github-readme-stats.vercel.app/api?username=MaitrySinha21&show_icons=true&theme=gotham" alt="MaitrySinha21" width="300" />
 </p>  
