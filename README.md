@@ -2,7 +2,7 @@
 
 I'm Maitry Sinha, a Passionate and Aspiring Data Scientist. My area of expertise are Deep Learning, Computer vision & Machine Learning. I am currently focusing on more  deeper parts of Computer vision section and trying to understand them better and also trying to enhance my knowledge in NLP field.
 
- --
+ 
   
   <img align="right" alt="GIF" src="https://media.giphy.com/media/IhFQgDRbzBcsuXTimp/giphy.gif" width="500" height="320" />
 
@@ -11,7 +11,7 @@ I'm Maitry Sinha, a Passionate and Aspiring Data Scientist. My area of expertise
    - 👯 I'm looking for colaboration on interesting data science technologies 
    - 📫 How to reach me: [Gmail](mailto:sinhamaitry6@gmail.com)
    - 📝 [Resume]()
---
+
 
 
 :zap: GitHub Stats
