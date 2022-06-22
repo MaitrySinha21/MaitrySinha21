@@ -5,11 +5,11 @@ I'm Maitry Sinha, a Passionate and Aspiring Data Scientist. My area of expertise
 
 ---
   
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/IhFQgDRbzBcsuXTimp/giphy.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/IhFQgDRbzBcsuXTimp/giphy.gif" width="400" height="250" />
 
    - 💬 Ask me about anything, I am happy to help & discuss.
-   - 🔭 I’m currently working as Jr. Data Scientist at Ineuron.
-   - 👯 I'm looking for colaboration on interesting data science technologies 
+   - 🔭 I’m currently working as Jr. Data Scientist at iNeuron.ai.
+   - 👯 I'm looking for colaboration on interesting Data Science technologies. 
    - 📫 How to reach me: [Gmail](mailto:sinhamaitry6@gmail.com)
    - 📝 [Resume]()
 
