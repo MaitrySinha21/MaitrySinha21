@@ -6,14 +6,17 @@ I'm Maitry Sinha, a Passionate and Aspiring Data Scientist. My area of expertise
   
   <img align="right" alt="GIF" src="https://media.giphy.com/media/IhFQgDRbzBcsuXTimp/giphy.gif" width="500" height="320" />
 
-Here are some ideas to get you started:
+   - 💬 Ask me about anything, I am happy to help & discuss.
+   - 🔭 I’m currently working as Jr. Data Scientist at Ineuron.
+   - 👯 I'm looking for colaboration on interesting data science technologies 
+   - 📫 How to reach me: [Gmail](mailto:sinhamaitry6@gmail.com)
+   - 📝 [Resume]()
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+:zap: GitHub Stats
+
+<p float="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaitrySinha21&show_icons=true&theme=gotham" alt="MaitrySinha21" width="300" />
+ <img src="https://github-readme-stats.vercel.app/api?username=MaitrySinha211&show_icons=true&theme=gotham" alt="MaitrySinha21" width="300" />
+</p>  
