@@ -12,8 +12,7 @@ I'm Maitry Sinha, a Passionate and aspiring Data Scientist. My area of expertise
    - 🔭 I’m currently working as Jr. Data Scientist at iNeuron.ai.
    - 👯 I'm looking for colaboration on interesting Data Science technologies. 
    - 📫 How to reach me: [Gmail](mailto:sinhamaitry6@gmail.com)
-   - 📝 [Resume](https://drive.google.com/file/d/1RyiWR--XTM1_h1JOdca2bE_FPqp01ep8/view?usp=sharing)
-
+   - 📝 [Resume](https://drive.google.com/file/d/1ceqUSpkm0VZmWw_1Eprt9kNkeSEwllui/view?usp=sharing)
 ---
 
 
