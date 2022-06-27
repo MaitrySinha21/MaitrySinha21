@@ -1,8 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=MaitrySinha21.MaitrySinha21)
-### Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" height ="15px"> I am Maitry Sinha
-                                    #### I am a Passionate Data Scientist
-  
-** My area of expertise are Deep Learning, Computer vision & Machine Learning. I am currently focusing on more deeper parts of Computer vision section and trying to understand them better and also trying to enhance my knowledge in NLP field.**
+### Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px" height ="15px"> I am Maitry Sinha
+
+** I am a Passionate Data Scientist.My area of expertise are Deep Learning, Computer vision & Machine Learning. I am currently focusing on more deeper parts of Computer vision section and trying to understand them better and also trying to enhance my knowledge in NLP field.**
 --- 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/IhFQgDRbzBcsuXTimp/giphy.gif" width="400" height="250" />
 
