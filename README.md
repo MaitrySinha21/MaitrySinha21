@@ -4,6 +4,9 @@
 
 
 I am a Passionate Data Scientist.My area of expertise are Deep Learning, Computer vision & Machine Learning. I am currently focusing on more deeper parts of Computer vision section and trying to understand them better and also trying to enhance my knowledge in NLP field.
+
+## Connect with me 🤝
+<a href="https://www.linkedin.com/in/maitry-sinha-2387551b8/"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIN | Maitry" width="22px"/></a>
 --- 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/IhFQgDRbzBcsuXTimp/giphy.gif" width="400" height="250" />
 
@@ -13,6 +16,7 @@ I am a Passionate Data Scientist.My area of expertise are Deep Learning, Compute
    - 📫 How to reach me: [Gmail](mailto:sinhamaitry6@gmail.com)
    - 📝 [Resume](https://drive.google.com/file/d/1ceqUSpkm0VZmWw_1Eprt9kNkeSEwllui/view?usp=sharing)
 ---
+
 :zap: GitHub Stats
 
 <p float="left">
@@ -33,7 +37,4 @@ I am a Passionate Data Scientist.My area of expertise are Deep Learning, Compute
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-## Connect with me 🤝
-<a href="https://www.linkedin.com/in/maitry-sinha-2387551b8/"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIN | Maitry" width="22px"/></a>
-
 
