@@ -12,6 +12,8 @@
    - 👯 I'm looking for colaboration on interesting Data Science technologies. 
    - 📫 How to reach me: [Gmail](mailto:sinhamaitry6@gmail.com)
    - 📝 [Resume](https://drive.google.com/file/d/1ceqUSpkm0VZmWw_1Eprt9kNkeSEwllui/view?usp=sharing)
+   - 💼 [Portfolio] (https://website-maitrysinha.herokuapp.com/) 
+
 ---
 
 :zap: GitHub Stats
